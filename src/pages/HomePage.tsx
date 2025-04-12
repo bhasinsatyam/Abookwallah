@@ -85,12 +85,7 @@ const HomePage = () => {
             <div className="space-x-3">
               <Link to="/books">
                 <Button size="lg">Browse Books</Button>
-              </Link>
-              <Link to="/resell">
-                <Button variant="outline" size="lg">
-                  Sell Your Books
-                </Button>
-              </Link>
+            
             </div>
           </div>
         </div>
